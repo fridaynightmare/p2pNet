@@ -1,4 +1,4 @@
-# p2pNet-unfinshed
+# p2pNet
 
 :)
 
