@@ -1,5 +1,6 @@
 # Makefile.musl - Compilation with static musl, maximum size reduction
 # Usage: cd P2Pu/P2P && make -f ../Makefile.musl agent
+# btw i used musl, but u can easily use gcc or whatever u want
 
 # toolchain stuff
 CC      := musl-gcc
